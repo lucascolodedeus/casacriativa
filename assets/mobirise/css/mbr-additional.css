@@ -1709,6 +1709,7 @@ body {
 }
 .cid-qv76drzErs .mbr-content-text {
   color: #ffffff;
+  text-align: center;
 }
 .cid-qv76drzErs .card {
   word-wrap: break-word;
@@ -1755,6 +1756,7 @@ body {
 }
 .cid-qv76drzErs H4 {
   color: #ffffff;
+  text-align: center;
 }
 .cid-qv76drzErs .mbr-section-title {
   color: #ffffff;
@@ -2078,4 +2080,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qv75j0NmFy P {
+  text-align: center;
 }
